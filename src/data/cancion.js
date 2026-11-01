@@ -7,4 +7,4 @@ export const album = "Intro Bonito";
 export const duracion = "2:56";
 export const anio = 2014;
 export const reproducciones = 18500000; 
-export const portada = "/portadas/sick-beat.jpg";
+export const portada = "../portadas/sick-beat.jpg";
